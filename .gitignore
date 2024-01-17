@@ -2,3 +2,4 @@
 databases
 storage
 myenv
+.env
